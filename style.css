@@ -1,0 +1,27 @@
+.calculator {
+    width: 200px;
+    margin: 50px auto;
+    padding: 10px;
+    background: linear-gradient(to bottom, #00a1ff, #0066ff); /* Degrade de azul */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  #result {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 5px;
+    font-size: 18px;
+  }
+  
+  .buttons button {
+    width: 40px;
+    height: 30px;
+    margin: 2px;
+    font-size: 14px;
+    background: linear-gradient(to bottom, #82b1ff, #448aff); /* Degrade de azul mais claro */    color: #fff;
+    border: none;
+    border-radius: 3px;
+  }
+  
